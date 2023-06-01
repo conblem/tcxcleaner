@@ -1,0 +1,14 @@
+{
+  "name": "tcxcleaner",
+  "version": "1.0.0",
+  "author": "conblem <mail@conblem.me>",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/xml2js": "^0.4.11",
+    "strava-v3": "^2.2.0",
+    "ts-node": "^10.9.1",
+    "xml2js": "^0.6.0"
+  }
+}
